@@ -20,8 +20,7 @@ jobs:
         with:
           github_user_name: eshamaryam1
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-pastel.svg?color_snake=#CBA6F7&color_dots=#1E1E2E,#94E2D5,#CBA6F7,#F5C2E7,#F5E0DC
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
