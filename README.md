@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,50:CBA6F7,100:F5C2E7&height=220&section=header&text=Hi,%20I'm%20Esha%20Maryam&fontSize=42&fontColor=F5E0DC&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20UI/UX%20Designer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA76CB,50:8839EF,100:179299&height=220&section=header&text=Hi,%20I'm%20Esha%20Maryam&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20UI/UX%20Designer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/eshamaryam/">
   <img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=F5C2E7"/>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=94E2D5"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F5C2E7&center=true&vCenter=true&width=750&lines=Bachelor+of+Science+in+Data+Science+%40+PUCIT;Freelance+UI%2FUX+Designer+%40+Figma;Teaching+Assistant+%E2%80%94+DSA+%7C+COAL+%7C+Stats;Building+ML+%2B+RAG+powered+applications;Turning+data+into+decisions+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=EA76CB&center=true&vCenter=true&width=750&lines=Bachelor+of+Science+in+Data+Science+%40+PUCIT;Freelance+UI%2FUX+Designer+%40+Figma;Teaching+Assistant+%E2%80%94+DSA+%7C+COAL+%7C+Stats;Building+ML+%2B+RAG+powered+applications;Turning+data+into+decisions+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -146,6 +146,6 @@ Role-based mobile healthcare app for patients, doctors & pharmacists supporting 
 
 <img src="https://komarev.com/ghpvc/?username=eshamaryam1&style=for-the-badge&color=CBA6F7" alt="profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C2E7,50:CBA6F7,100:1E1E2E&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:179299,50:8839EF,100:EA76CB&height=100&section=footer" width="100%"/>
 
 </div>
