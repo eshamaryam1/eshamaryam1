@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A3B18A"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A3B18A&center=true&vCenter=true&width=600&lines=Bachelor+of+Science+in+Data+Science+%40+PUCIT;Freelance+UI%2FUX+Designer+%40+Figma;Teaching+Assistant+%E2%80%94+DSA+%7C+COAL+%7C+Probability+%26+Stats;Building+ML+%2B+RAG+powered+applications;Turning+data+into+decisions+%F0%9F%8C%BF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A3B18A&center=true&vCenter=true&width=750&lines=Bachelor+of+Science+in+Data+Science+%40+PUCIT;Freelance+UI%2FUX+Designer+%40+Figma;Teaching+Assistant+%E2%80%94+DSA+%7C+COAL+%7C+Probability+%26+Stats;Building+ML+%2B+RAG+powered+applications;Turning+data+into+decisions+%F0%9F%8C%BF" alt="Typing SVG" />
 
 </div>
 
@@ -116,8 +116,8 @@ Role-based mobile healthcare app for patients, doctors & pharmacists supporting 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eshamaryam1&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=ffffff&text_color=E0E0E0&icon_color=A3B18A" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshamaryam1&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=ffffff&text_color=E0E0E0&icon_color=A3B18A" />
+<img height="165" src="https://github-readme-stats-esha15.vercel.app/api?username=eshamaryam1&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=ffffff&text_color=E0E0E0&icon_color=A3B18A" />
+<img height="165" src="https://github-readme-stats-esha15.vercel.app/api/top-langs/?username=eshamaryam1&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=ffffff&text_color=E0E0E0&icon_color=A3B18A" />
 
 <br>
 
